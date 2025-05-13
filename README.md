@@ -12,4 +12,4 @@ This is a simple Stopwatch web application built using HTML, CSS, and JavaScript
 - Dark/light theme toggle
 
 Checkout the website here: https://allengeorge2277.github.io/Stopwatch-Program-using-JS/  
-Feedbacks and modifactions are accepted.
+Feedbacks and modifications are accepted.
